@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Video](Project_4.gif)
+![Video](Project_4.gif)
 
 
 ## Notes
